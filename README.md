@@ -1,4 +1,4 @@
-## Wealcome to Andrew Li's Profile! 👋
+# Welcome to Andrew Li's Profile! 👋
 I am a third-year computer science student at the University of British Columbia, with an interest in fintech and agentic AI.
 
 ## Languages:
